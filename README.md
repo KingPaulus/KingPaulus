@@ -22,6 +22,7 @@
   <a href="https://snapchat.com/add/paul_m02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat Icon" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/paul-merget-9b264525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="30" width="40" /></a>
   <a href="https://www.facebook.com/paul.merget.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Icon" height="30" width="40" /></a>
+        <a href="https://open.spotify.com/user/r5gi90r25crptag7wrjkmy7eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify Icon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
