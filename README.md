@@ -2,7 +2,7 @@
 <img 
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12C1DD&center=true&multiline=true&width=435&lines=Hello+there%2C+I'm+King+Paulus" alt="Typing SVG" 
     />
-<h3>A passionate frontend developer</h3>
+<h3>A passionate full stack developer</h3>
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingpaulus&label=Profile%20views&color=0e75b6&style=flat" alt="kingpaulus" /> </p>
