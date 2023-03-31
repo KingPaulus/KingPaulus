@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingpaulus" alt="kingpaulus" /></a> </p>
 
-- 🔭 I’m currently working on [php-fuel-app](https://github.com/idna001/php-fuel-app) (Private Repos.)
+- 🔭 I’m currently working on a few Java Projekts like, [Card Game](https://github.com/KingPaulus/Kartenspiel)
 
 - 🌱 I’m currently learning **stenciljs**
 
