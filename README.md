@@ -104,19 +104,56 @@
                 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
         </a>
 </p>
+
+# 👋 Hallo! Ich bin ein vielseitiger Entwickler
+
+Ich bin ein Entwickler mit einer breiten Erfahrungspalette in verschiedenen Technologien, darunter **Java**, **PHP** und **Angular**. Mit einer Leidenschaft für sauberen, wartbaren und skalierbaren Code bin ich stets auf der Suche nach **neuen Herausforderungen und spannenden Projekten**, die mich sowohl technisch als auch kreativ weiterbringen.
+
+## 💻 **Meine Expertise**:
+
+- **Backend**: Ich habe umfassende Erfahrung mit **Java** und **PHP**, insbesondere in der Entwicklung von Webanwendungen und APIs. Dabei habe ich mit verschiedenen Frameworks und Architekturen gearbeitet, um performante und robuste Systeme zu schaffen.
+- **Frontend**: **Angular** ist eines meiner bevorzugten Frontend-Frameworks, aber ich bin auch vertraut mit **React** und **Vue.js**. Ich strebe stets nach **userfreundlichen und performanten** Webapplikationen.
+- **CI/CD**: Ich habe Erfahrung in der Implementierung von Continuous Integration und Continuous Deployment (CI/CD) Pipelines, um schnelle und fehlerfreie Deployments sicherzustellen.
+
+## 🛠 **Tools & Technologien**:
+
+- **Node.js**, **npm**, **Yarn** – Um schnelle und effiziente Build-Prozesse zu gewährleisten, arbeite ich regelmäßig mit diesen Tools, um Abhängigkeiten zu verwalten, Module zu installieren und die Softwareentwicklung zu automatisieren.
+- **GitHub Actions** – Automatisierung von Workflows, von der Codeüberprüfung bis zum Deployment.
+- **Docker** – Containerisierung von Anwendungen für eine einheitliche Entwicklungs- und Produktionsumgebung.
+
+## 📂 **Mein Fokus**:
+
+Ich lege großen Wert auf **saubere, wartbare und gut strukturierte Codebasen**. Dies schließt die konsequente Verwendung von **.gitignore**-Dateien ein, um unnötige und sensible Dateien vom Repository fernzuhalten. Zu den typischen von mir ignorierten Dateien gehören:
+
+- **Abhängigkeiten**: `/node_modules`, `.pnp.js` (um Abhängigkeiten nicht ins Repository zu schieben)
+- **Testdaten**: `/coverage` (Testabdeckungsberichte sollen nicht im Repo landen)
+- **Produktionsdateien**: `/build`, `build.zip` (Vermeidung von Builds im Git)
+- **Sonstiges**: `.DS_Store`, `.env.local`, `.env.development.local`, `.env.test.local`, `.env.production.local`, `.idea` (Um Entwicklungsumgebungen und temporäre Dateien fernzuhalten)
+- **Fehlerprotokolle**: `npm-debug.log*`, `yarn-debug.log*`, `yarn-error.log*` (Um Logdateien aus dem Repo herauszuhalten)
+
+## 🔍 **Warum GitHub?**:
+
+GitHub ist für mich nicht nur ein Ort zur Verwaltung von Code, sondern auch eine Plattform zur Zusammenarbeit. Ich nutze GitHub, um **Open-Source-Projekte** zu unterstützen, neue **Code-Review-Techniken** zu lernen und von einer aktiven Entwicklergemeinschaft zu profitieren.
+
+## 🌱 **Ziele**:
+
+Ich arbeite ständig daran, mich in den Bereichen **Cloud-Technologien**, **Microservices** und **DevOps** weiterzuentwickeln, um in modernen und agilen Entwicklungsumgebungen noch effizienter arbeiten zu können.
+
+## 🚀 **Ich bin immer offen für neue Ideen, Technologien und Partnerschaften**:
+
+Falls du ein spannendes Projekt hast oder du Ideen austauschen möchtest, freue ich mich auf deine Nachricht!
+
+
 <br><br>
 <a href="https://github.com/itaditya#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=KingPaulus&show_icons=true&theme=graywhite#gh-light-mode-only" alt="KingPaulus" />
 </a>
-
-<a href="https://github.com/KingPaulus#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingPaulus&show_icons=true&theme=graywhite#gh-light-mode-only" alt="KingPaulus" />
-</a>
-
 <a href="https://github.com/KingPaulus#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=KingPaulus&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="KingPaulus" />
 </a>
+
 <br>
+
 <a href="https://github.com/KingPaulus#gh-dark-mode-only">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingPaulus&show_icons=true&locale=en&layout=compact&theme=city_lights#gh-dark-mode-only" alt="KingPaulus" />
 </a>
